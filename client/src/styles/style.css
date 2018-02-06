@@ -1,0 +1,54 @@
+.btn-header {
+  background-color: #FBC02D !important;
+}
+.btn-header:hover {
+  background-color: #FFEB3B !important;
+}
+.btn-header:active {
+  background-color: #F9A825 !important;
+}
+.btn-header:visited {
+  background-color: #FBC02D !important;
+}
+.btn-login {
+  margin : auto;
+  margin-top: 20px;
+  width: 300px;
+}
+.btn-twitter {
+  background-color: #00aced;
+}
+.btn-twitter:hover{
+  background-color: #1dcaff;
+}
+.btn-twitter:active {
+  background-color: #0084b4;
+}
+.btn-twitter:visited {
+  background-color: #00aced;
+}
+.btn-google {
+  background-color: #d34836;
+}
+.btn-google:hover {
+  background-color: #F44336;
+}
+.btn-google:active {
+  background-color: #d34836;
+}
+.btn-google:visited {
+  background-color: #d34836;
+}
+
+.btn-facebook {
+  background-color: #3b5998;
+}
+.btn-facebook:hover {
+  background-color: #4e69a2;
+}
+.btn-facebook:active {
+  background-color: #3b5998;
+}
+.btn-facebook:visited {
+  background-color: #3b5998;
+}
